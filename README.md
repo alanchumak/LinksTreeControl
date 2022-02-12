@@ -32,7 +32,7 @@ export const store = configureStore({
 4. Использовать LinksTreeControl внутри обертки **Provider**. Например:
 ```javascript
 import { Provider } from 'react-redux'
-import { LinksTreeControl } from './features/categories/LinksTreeControl'
+import { LinksTreeControl } from './features/linksTree/LinksTreeControl'
 
 ReactDOM.render(
   <Provider store={store}>
