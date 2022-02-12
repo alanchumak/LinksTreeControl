@@ -28,8 +28,7 @@ export const store = configureStore({
   },
 });
 ```
-3. Импортировать компонент **LinksTreeControl** из **linksTree/LinksTreeControl.jsx**
-4. Использовать LinksTreeControl внутри обертки **Provider**. Например:
+3. Импортировать компонент **LinksTreeControl** из **linksTree/LinksTreeControl.jsx** и использовать его внутри обертки **Provider**. Например:
 ```javascript
 import { Provider } from 'react-redux'
 import { LinksTreeControl } from './features/linksTree/LinksTreeControl'
