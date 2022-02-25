@@ -4,7 +4,7 @@
 
 ## Описание
 
-Компонент создан с использованием [The official Redux template for Create-React-App](https://github.com/reduxjs/cra-template-redux) и используется в его контексете. Не содержит логики работы с сервером. Код компонента содержится в катологе **linksTree** и представляет собой "single feature" для папки **features** проекта. 
+Компонент создан с использованием [The official Redux template for Create-React-App](https://github.com/reduxjs/cra-template-redux) и используется в его контексте. Не содержит логики работы с сервером. Код компонента содержится в каталоге **linksTree** и представляет собой "single feature" для папки **features** проекта. 
 
 ## Формат входных данных
 
