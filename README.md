@@ -12,7 +12,6 @@
 
 ## Зависимости 
 
-Требуются к установке:
 1. [react-xarrows](https://www.npmjs.com/package/react-xarrows)
 2. [react-input-slider](https://www.npmjs.com/package/react-input-slider)
 
